@@ -1,15 +1,14 @@
-package regiestrationForm.stepDefinitions;
+package registrationForm.stepDefinitions;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
-import regiestrationForm.pages.RegistirationPage;
-import regiestrationForm.utilities.ConfigurationReader;
-import regiestrationForm.utilities.Driver;
+import registrationForm.pages.RegistirationPage;
+import registrationForm.utilities.ConfigurationReader;
+import registrationForm.utilities.Driver;
 
-import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 public class PositiveTesting {

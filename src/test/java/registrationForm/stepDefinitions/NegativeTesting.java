@@ -1,10 +1,9 @@
-package regiestrationForm.stepDefinitions;
+package registrationForm.stepDefinitions;
 
 import io.cucumber.java.en.*;
 import org.junit.Assert;
-import org.openqa.selenium.WebDriver;
-import regiestrationForm.pages.RegistirationPage;
-import regiestrationForm.utilities.Driver;
+import registrationForm.pages.RegistirationPage;
+import registrationForm.utilities.Driver;
 
 public class NegativeTesting {
     RegistirationPage page = new RegistirationPage();

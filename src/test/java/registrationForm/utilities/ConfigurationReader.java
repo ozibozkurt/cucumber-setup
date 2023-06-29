@@ -1,4 +1,4 @@
-package regiestrationForm.utilities;
+package registrationForm.utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;

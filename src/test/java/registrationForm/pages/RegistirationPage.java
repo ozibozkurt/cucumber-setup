@@ -1,9 +1,9 @@
-package regiestrationForm.pages;
+package registrationForm.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import regiestrationForm.utilities.Driver;
+import registrationForm.utilities.Driver;
 
 public class RegistirationPage {
     public RegistirationPage(){
