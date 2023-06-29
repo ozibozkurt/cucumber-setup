@@ -10,8 +10,6 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json",
                 //html report
                 "html:target/default-html-reports.html",
-                //junit report
-                "junit:target/cucumber.xml",
         },
         features = "src/test/resources/features",
         glue = "registrationForm/stepDefinitions",
